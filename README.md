@@ -21,9 +21,9 @@ Problem Statement
 
 Accurately forecasting next-day temperature has significant implications for:
 
-- Agriculture 🌾
-- City planning 🏙️
-- Daily lifestyle 🌡️
+- Agriculture
+- City planning
+- Daily lifestyle
 
 Using classical machine learning, we aim to train a regression model on cleaned weather records to minimize prediction error and improve planning decisions.
 
