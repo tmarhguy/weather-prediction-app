@@ -4,19 +4,6 @@ This project predicts the next day’s maximum temperature in Oakland, Californi
 
 ---
 
-Project Structure
-
-```
-weather-prediction-app/
-├── data/
-│   └── local_weather_oakland.csv      # Historical weather data
-├── WeatherPrediction.ipynb            # Main notebook (data prep + modeling)
-├── requirements.txt                   # Python dependencies
-└── README.md                          # This file
-```
-
----
-
 Problem Statement
 
 Accurately forecasting next-day temperature has significant implications for:
